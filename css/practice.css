@@ -1,0 +1,25 @@
+table, th, td {
+   border: 3px solid black;
+}
+
+
+table {
+     width: 420px;
+     height: 420px;
+    
+}
+
+td {
+    width: 140px;
+    height: 140px;
+    font-size: 80px;
+    text-align: center;
+    
+}
+
+#btndiv {
+    
+    margin-top: 30px;
+    font-size: 25px;
+    
+}
